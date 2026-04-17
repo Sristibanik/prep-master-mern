@@ -166,16 +166,8 @@ mongodb://127.0.0.1:27017/interviewprep
 
 ## 👩‍💻 Author
 
-Swati
+Sristi
 
 ---
 
-## ⭐ Contribute
 
-Pull requests are welcome. For major changes, open an issue first.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
